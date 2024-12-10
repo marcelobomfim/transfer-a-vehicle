@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_transfer.request_vendedor" name="x_snc_transfer.request_vendedor">159f1bb6835e12107f4409b29bda1ef4</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 02:20:36</sys_created_on>
+        <sys_id>2aaf5fb6835e12107f4409b29bda1e13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>159f1bb6835e12107f4409b29bda1ef4</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2aaf5fb6835e12107f4409b29bda1e13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 02:20:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

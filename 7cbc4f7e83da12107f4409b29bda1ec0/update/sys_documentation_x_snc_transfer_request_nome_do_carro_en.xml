@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="nome_do_carro" label="Nome do carro" language="en" table="x_snc_transfer_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>nome_do_carro</element>
+            <help/>
+            <hint/>
+            <label>Nome do carro</label>
+            <language>en</language>
+            <name>x_snc_transfer_request</name>
+            <plural>Nome do carros</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 01:45:00</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nome do carro</sys_name>
+            <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_transfer_request_nome_do_carro_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 01:45:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

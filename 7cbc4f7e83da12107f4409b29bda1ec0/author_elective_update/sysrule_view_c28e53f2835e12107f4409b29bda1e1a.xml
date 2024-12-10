@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysrule_view">
+    <sysrule_view action="DELETE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <device_type>browser</device_type>
+        <match_conditions>ALL</match_conditions>
+        <name>View Rule - Vendedor</name>
+        <order>100</order>
+        <overrides_user_preference>true</overrides_user_preference>
+        <script><![CDATA[(function overrideView(view, is_list) {
+
+	// Add your code here
+	answer = null;  // set the new view to answer
+
+})(view, is_list);]]></script>
+        <sys_class_name>sysrule_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 02:15:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c28e53f2835e12107f4409b29bda1e1a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View Rule - Vendedor</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_update_name>sysrule_view_c28e53f2835e12107f4409b29bda1e1a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 02:15:48</sys_updated_on>
+        <table/>
+        <view/>
+    </sysrule_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</application>
+        <file_path/>
+        <instance_id>184b2311c3dad21884b3f9d6050131ce</instance_id>
+        <instance_name>nowlearning-nlinst02282622-0001</instance_name>
+        <name>sysrule_view_c28e53f2835e12107f4409b29bda1e1a</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysrule_view"&gt;&lt;sysrule_view action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;condition/&gt;&lt;description/&gt;&lt;device_type&gt;browser&lt;/device_type&gt;&lt;match_conditions&gt;ALL&lt;/match_conditions&gt;&lt;name&gt;View Rule - Vendedor&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;overrides_user_preference&gt;true&lt;/overrides_user_preference&gt;&lt;script&gt;&lt;![CDATA[(function overrideView(view, is_list) {
+
+	// Add your code here
+	answer = null;  // set the new view to answer
+
+})(view, is_list);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sysrule_view&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-12-10 02:15:48&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c28e53f2835e12107f4409b29bda1e1a&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;View Rule - Vendedor&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Transfer a Vehicle" source="x_snc_transfer"&gt;7cbc4f7e83da12107f4409b29bda1ec0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Transfer a Vehicle"&gt;7cbc4f7e83da12107f4409b29bda1ec0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysrule_view_c28e53f2835e12107f4409b29bda1e1a&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-12-10 02:15:48&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;view/&gt;&lt;/sysrule_view&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-342382986</payload_hash>
+        <record_name>View Rule - Vendedor</record_name>
+        <reverted_from/>
+        <source>70bc4372831e12107f4409b29bda1e8f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 02:15:48</sys_created_on>
+        <sys_id>149e9376835e12107f4409b29bda1eb8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193ae59eb5a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 02:15:48</sys_updated_on>
+        <type>View Rule</type>
+        <update_guid>589e9376055e12101f95d5bf3ed36bb7</update_guid>
+        <update_guid_history>589e9376055e12101f95d5bf3ed36bb7:-342382986</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 03:02:57</sys_created_on>
+        <sys_db_object display_value="" name="sysrule_view">sysrule_view</sys_db_object>
+        <sys_id>37b7d06c7eaa4e4aa93b4058664b95e1</sys_id>
+        <sys_metadata>c28e53f2835e12107f4409b29bda1e1a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>View Rule - Vendedor</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_scope_delete display_value="">bb7210836c64439ab937f77166390e19</sys_scope_delete>
+        <sys_update_name>sysrule_view_c28e53f2835e12107f4409b29bda1e1a</sys_update_name>
+        <sys_update_version display_value="sysrule_view_c28e53f2835e12107f4409b29bda1e1a">149e9376835e12107f4409b29bda1eb8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 03:02:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
