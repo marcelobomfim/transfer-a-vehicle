@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Transfer Vehicle">48f29ff6831e12107f4409b29bda1edc</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Purchases</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_transfer_purchase</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_snc_transfer.request_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-11 14:40:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4182d397c35a521023f6973ed4013152</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchases</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_update_name>sys_app_module_4182d397c35a521023f6973ed4013152</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-11 14:40:07</sys_updated_on>
+        <timeline_page/>
+        <title>Purchases</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</application>
+        <file_path/>
+        <instance_id>2fae8ef61bd9465432182f8dee4bcbfd</instance_id>
+        <instance_name>dev255328</instance_name>
+        <name>sys_app_module_4182d397c35a521023f6973ed4013152</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Transfer Vehicle">48f29ff6831e12107f4409b29bda1edc</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Purchases</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_transfer_purchase</name><order>400</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_snc_transfer.request_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-11 14:40:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4182d397c35a521023f6973ed4013152</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Purchases</sys_name><sys_overrides/><sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package><sys_policy/><sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope><sys_update_name>sys_app_module_4182d397c35a521023f6973ed4013152</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-11 14:40:07</sys_updated_on><timeline_page/><title>Purchases</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-45077006</payload_hash>
+        <record_name>Purchases</record_name>
+        <reverted_from/>
+        <source>f3edc38bc356121023f6973ed4013119</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-11 14:40:07</sys_created_on>
+        <sys_id>4d8293d7c35a521023f6973ed40131ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193b629b8690000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-11 14:40:07</sys_updated_on>
+        <type>Module</type>
+        <update_guid>418293d7205a52108861fbc997b71fae</update_guid>
+        <update_guid_history>418293d7205a52108861fbc997b71fae:-45077006</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Purchases">99f217d7c35a521023f6973ed4013128</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-11 14:42:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>13e9daf62bde47748d0fd3eac882ba49</sys_id>
+        <sys_metadata>4182d397c35a521023f6973ed4013152</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchases</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_scope_delete display_value="">bb7210836c64439ab937f77166390e19</sys_scope_delete>
+        <sys_update_name>sys_app_module_4182d397c35a521023f6973ed4013152</sys_update_name>
+        <sys_update_version display_value="sys_app_module_4182d397c35a521023f6973ed4013152">4d8293d7c35a521023f6973ed40131ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-11 14:42:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

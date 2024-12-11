@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="77419b9bc31a521023f6973ed40131cc" extends="task" label="Purchase" max_length="40" name="x_snc_transfer_purchase" type="collection">
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Car Purchase Offer" mandatory="true" max_length="20" name="car_purchase_offer" type="price"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Counterproposal" max_length="20" name="counterproposal" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Car Name" mandatory="true" max_length="40" name="car_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Car Chassi" mandatory="true" max_length="40" name="car_chassi" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Car Info" max_length="4000" name="car_info" type="string"/>
+    </element>
+</database>

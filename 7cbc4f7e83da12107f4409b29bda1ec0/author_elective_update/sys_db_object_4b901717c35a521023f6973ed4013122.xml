@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Purchase</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_transfer_purshace</name>
+        <number_ref display_value="PURREQ">4a119f17c35a521023f6973ed4013139</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">b50a9c1b3530121087de279753545884</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-11 14:33:53</sys_created_on>
+        <sys_id>4b901717c35a521023f6973ed4013122</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Purchase</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_update_name>sys_db_object_4b901717c35a521023f6973ed4013122</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-11 14:34:14</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_snc_transfer.request_user" name="x_snc_transfer.request_user">ffe25b76831e12107f4409b29bda1e48</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</application>
+        <file_path/>
+        <instance_id>2fae8ef61bd9465432182f8dee4bcbfd</instance_id>
+        <instance_name>dev255328</instance_name>
+        <name>sys_db_object_4b901717c35a521023f6973ed4013122</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>true</configuration_access><create_access>true</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Purchase</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_transfer_purshace</name><number_ref display_value="PURREQ">4a119f17c35a521023f6973ed4013139</number_ref><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">b50a9c1b3530121087de279753545884</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-11 14:33:53</sys_created_on><sys_id>4b901717c35a521023f6973ed4013122</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Purchase</sys_name><sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package><sys_policy/><sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope><sys_update_name>sys_db_object_4b901717c35a521023f6973ed4013122</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-11 14:34:14</sys_updated_on><update_access>true</update_access><user_role display_value="x_snc_transfer.request_user" name="x_snc_transfer.request_user">ffe25b76831e12107f4409b29bda1e48</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>545167863</payload_hash>
+        <record_name>Purchase</record_name>
+        <reverted_from/>
+        <source>f3edc38bc356121023f6973ed4013119</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-11 14:34:14</sys_created_on>
+        <sys_id>83211357c35a521023f6973ed40131cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193b62455fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-11 14:34:14</sys_updated_on>
+        <type>Table</type>
+        <update_guid>0b2113576e5a52108cf39a3ff52e5dca</update_guid>
+        <update_guid_history>0b2113576e5a52108cf39a3ff52e5dca:545167863,ce119f17245a52108b276b98801b7e4a:439311927,c2119f17a95a521071917d1f10c29738:1825203458</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-11 14:34:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>14d97fcb0a9f41108d0cb44e10a0fe40</sys_id>
+        <sys_metadata>4b901717c35a521023f6973ed4013122</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_scope_delete display_value="">bb7210836c64439ab937f77166390e19</sys_scope_delete>
+        <sys_update_name>sys_db_object_4b901717c35a521023f6973ed4013122</sys_update_name>
+        <sys_update_version display_value="sys_db_object_4b901717c35a521023f6973ed4013122">83211357c35a521023f6973ed40131cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-11 14:34:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

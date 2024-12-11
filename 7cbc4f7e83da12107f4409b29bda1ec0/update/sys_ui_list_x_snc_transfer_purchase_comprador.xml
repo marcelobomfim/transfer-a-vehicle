@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_transfer_purchase" version="2" view="Comprador">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_transfer_purchase" element="NULL" name="x_snc_transfer_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="88695bfe831e12107f4409b29bda1e1b">d0541b5bc35a521023f6973ed40131f9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 14:47:59</sys_created_on>
+            <sys_id>10541b5bc35a521023f6973ed40131fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 14:47:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>car_name</element>
+            <list_id display_value="x_snc_transfer_purchase" element="NULL" name="x_snc_transfer_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="88695bfe831e12107f4409b29bda1e1b">d0541b5bc35a521023f6973ed40131f9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 14:47:59</sys_created_on>
+            <sys_id>90541b5bc35a521023f6973ed40131fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 14:47:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>car_chassi</element>
+            <list_id display_value="x_snc_transfer_purchase" element="NULL" name="x_snc_transfer_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="88695bfe831e12107f4409b29bda1e1b">d0541b5bc35a521023f6973ed40131f9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 14:47:59</sys_created_on>
+            <sys_id>14541b5bc35a521023f6973ed40131fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 14:47:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>car_purchase_offer</element>
+            <list_id display_value="x_snc_transfer_purchase" element="NULL" name="x_snc_transfer_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="88695bfe831e12107f4409b29bda1e1b">d0541b5bc35a521023f6973ed40131f9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 14:47:59</sys_created_on>
+            <sys_id>94541b5bc35a521023f6973ed40131fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 14:47:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>car_info</element>
+            <list_id display_value="x_snc_transfer_purchase" element="NULL" name="x_snc_transfer_purchase" parent="NULL" relationship="NULL" sys_domain="global" view="88695bfe831e12107f4409b29bda1e1b">d0541b5bc35a521023f6973ed40131f9</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 14:47:59</sys_created_on>
+            <sys_id>18541b5bc35a521023f6973ed40131fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 14:47:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_transfer_purchase</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 14:47:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d0541b5bc35a521023f6973ed40131f9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_transfer_purchase</sys_name>
+            <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_transfer_purchase_Comprador</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 14:47:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Comprador" name="Comprador">88695bfe831e12107f4409b29bda1e1b</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
