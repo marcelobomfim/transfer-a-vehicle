@@ -34,11 +34,11 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>250</max_length>
+        <max_length>4000</max_length>
         <name>x_snc_transfer_request</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -58,7 +58,7 @@
         <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_transfer_request_carinfo</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-10 01:51:23</sys_updated_on>
+        <sys_updated_on>2024-12-11 15:15:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

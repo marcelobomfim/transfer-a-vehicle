@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_transfer_purchase" version="2" view="Vendedor">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Purchase - Vendedor" name="x_snc_transfer_purchase" related_list="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">502c1317c39a521023f6973ed40131a1</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_1580183_transf_0_request.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 15:22:07</sys_created_on>
+            <sys_id>dc2c1317c39a521023f6973ed40131a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 15:22:07</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Purchase - Vendedor" name="x_snc_transfer_purchase" related_list="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">502c1317c39a521023f6973ed40131a1</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_1580183_transf_0_request.universal_request</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 15:22:07</sys_created_on>
+            <sys_id>d02c1317c39a521023f6973ed40131a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 15:22:07</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Purchase - Vendedor</calculated_name>
+            <filter/>
+            <name>x_snc_transfer_purchase</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-11 15:22:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>502c1317c39a521023f6973ed40131a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Purchase - Vendedor</sys_name>
+            <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_transfer_purchase_Vendedor</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-11 15:22:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Vendedor" name="Vendedor">bb09d3fe831e12107f4409b29bda1eeb</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

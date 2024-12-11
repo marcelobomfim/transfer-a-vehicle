@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="47801776831e12107f4409b29bda1e5a" extends="task" label="Request" max_length="40" name="x_snc_transfer_request" type="collection">
         <element label="Chassi do carro" mandatory="true" max_length="40" name="carchassi" type="string"/>
-        <element label="Demais Informações" max_length="250" name="carinfo" read_only="true" type="string"/>
+        <element label="Mais Informações" max_length="40" name="mais_informacoes" type="string"/>
+        <element label="Demais Informações" max_length="4000" name="carinfo" type="string"/>
         <element label="Nome do Carro" mandatory="true" max_length="60" name="carname" type="string"/>
+        <element label="Valor da Oferta de compra" max_length="20" name="valor_da_oferta_de_compra" type="price"/>
+        <element label="Nome do carro" max_length="40" name="nome_do_carro" type="string"/>
         <element label="Valor Oferta" mandatory="true" max_length="20" name="carpurchaseoffer" type="price"/>
         <element label="Chassi do carro" max_length="40" name="chassi_do_carro" type="string"/>
-        <element label="Mais Informações" max_length="40" name="mais_informacoes" type="string"/>
-        <element label="Nome do carro" max_length="40" name="nome_do_carro" type="string"/>
-        <element label="Valor da Oferta de compra" max_length="20" name="valor_da_oferta_de_compra" type="price"/>
     </element>
 </database>
