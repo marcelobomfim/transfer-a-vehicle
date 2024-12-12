@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision">
+    <sys_decision action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <answer_table>sys_decision_multi_result</answer_table>
+        <answer_type>reference</answer_type>
+        <delta/>
+        <description/>
+        <enable_publishing>true</enable_publishing>
+        <label/>
+        <name>Gerente Regiao</name>
+        <reference_qualifier/>
+        <status>draft</status>
+        <sys_class_name>sys_decision</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 18:07:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1eab0d73c396d21023f6973ed40131c5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Gerente Regiao</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_update_name>sys_decision_1eab0d73c396d21023f6973ed40131c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 18:08:55</sys_updated_on>
+    </sys_decision>
+</record_update>
