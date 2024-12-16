@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
+    <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
+        <decision_input display_value="Offer">127d4204c326121023f6973ed401312b</decision_input>
+        <decision_table display_value="DecisionAboutSale">62cb4e00c326121023f6973ed4013166</decision_table>
+        <default_operator>=</default_operator>
+        <description>Value of offer to buy a car</description>
+        <field/>
+        <field_label/>
+        <field_parent_table/>
+        <label>OfferPurchase</label>
+        <order>100</order>
+        <parent/>
+        <reference/>
+        <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-13 17:33:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>727d0204c326121023f6973ed40131bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_update_name>sn_decision_table_decision_condition_727d0204c326121023f6973ed40131bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-13 17:33:56</sys_updated_on>
+        <type display_value="Currency">fd2cb3b40a0a0b3000977fec84409b73</type>
+    </sn_decision_table_decision_condition>
+</record_update>
