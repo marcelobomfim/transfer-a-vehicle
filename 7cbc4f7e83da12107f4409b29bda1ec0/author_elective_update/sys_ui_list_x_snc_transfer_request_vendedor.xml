@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_snc_transfer_request" version="2" view="Vendedor">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>94dd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>carname</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>18dd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>carchassi</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>98dd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>carpurchaseoffer</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>1cdd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>9cdd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>10dd5736835e12107f4409b29bda1e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mais_informacoes</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>90dd5736835e12107f4409b29bda1e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_transfer_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98dd5736835e12107f4409b29bda1e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_transfer_request</sys_name>
+            <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_transfer_request_Vendedor</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Vendedor" name="Vendedor">bb09d3fe831e12107f4409b29bda1eeb</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</application>
+        <file_path/>
+        <instance_id>2fae8ef61bd9465432182f8dee4bcbfd</instance_id>
+        <instance_name>dev255328</instance_name>
+        <name>sys_ui_list_x_snc_transfer_request_Vendedor</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_snc_transfer_request" version="2" view="Vendedor">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>94dd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>carname</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>18dd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>carchassi</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>98dd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>carpurchaseoffer</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>1cdd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>9cdd5736835e12107f4409b29bda1e43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>approval</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>10dd5736835e12107f4409b29bda1e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>mais_informacoes</element>
+            <list_id display_value="x_snc_transfer_request" element="NULL" name="x_snc_transfer_request" parent="NULL" relationship="NULL" sys_domain="global" view="bb09d3fe831e12107f4409b29bda1eeb">98dd5736835e12107f4409b29bda1e42</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_id>90dd5736835e12107f4409b29bda1e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_snc_transfer_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-10 02:12:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>98dd5736835e12107f4409b29bda1e42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_transfer_request</sys_name>
+            <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+            <sys_update_name>sys_ui_list_x_snc_transfer_request_Vendedor</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-10 02:12:32</sys_updated_on>
+            <sys_user/>
+            <view display_value="Vendedor" name="Vendedor">bb09d3fe831e12107f4409b29bda1eeb</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>]]></payload>
+        <payload_hash>1983179530</payload_hash>
+        <record_name>Request</record_name>
+        <reverted_from/>
+        <source>decd078bc356121023f6973ed40131ae</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 19:41:08</sys_created_on>
+        <sys_id>74dd0b8bc356121023f6973ed4013177</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193b216f3720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 19:41:08</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>34dd0b8b495612109dfd37733580cb77</update_guid>
+        <update_guid_history>34dd0b8b495612109dfd37733580cb77:1983179530</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 12:12:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>19d223987bbc4bad87a7aa670b73b811</sys_id>
+        <sys_metadata>98dd5736835e12107f4409b29bda1e42</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_transfer_request</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_parent display_value="">47801776831e12107f4409b29bda1e5a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_scope_delete display_value="">bb7210836c64439ab937f77166390e19</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_snc_transfer_request_Vendedor</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_snc_transfer_request_Vendedor">74dd0b8bc356121023f6973ed4013177</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 12:12:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

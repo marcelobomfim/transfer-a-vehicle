@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 03:09:45</sys_created_on>
+        <sys_id>8baa67f2839e12107f4409b29bda1e21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_snc_transfer.request_user</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_security_acl display_value="x_snc_transfer_request.carpurchaseoffer">a2aa2736839e12107f4409b29bda1e16</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8baa67f2839e12107f4409b29bda1e21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 03:09:45</sys_updated_on>
+        <sys_user_role display_value="x_snc_transfer.request_user" name="x_snc_transfer.request_user">ffe25b76831e12107f4409b29bda1e48</sys_user_role>
+    </sys_security_acl_role>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</application>
+        <file_path/>
+        <instance_id>2fae8ef61bd9465432182f8dee4bcbfd</instance_id>
+        <instance_name>dev255328</instance_name>
+        <name>sys_security_acl_role_8baa67f2839e12107f4409b29bda1e21</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 03:09:45</sys_created_on>
+        <sys_id>8baa67f2839e12107f4409b29bda1e21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_snc_transfer.request_user</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_security_acl display_value="x_snc_transfer_request.carpurchaseoffer">a2aa2736839e12107f4409b29bda1e16</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8baa67f2839e12107f4409b29bda1e21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 03:09:45</sys_updated_on>
+        <sys_user_role display_value="x_snc_transfer.request_user" name="x_snc_transfer.request_user">ffe25b76831e12107f4409b29bda1e48</sys_user_role>
+    </sys_security_acl_role>
+</record_update>]]></payload>
+        <payload_hash>1088493320</payload_hash>
+        <record_name>.x_snc_transfer.request_user</record_name>
+        <reverted_from/>
+        <source>decd078bc356121023f6973ed40131ae</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-10 19:41:08</sys_created_on>
+        <sys_id>bcdd0b8bc356121023f6973ed4013151</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193b216f1a20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-10 19:41:08</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>7cdd0b8b545612104d25e391b38de451</update_guid>
+        <update_guid_history>7cdd0b8b545612104d25e391b38de451:1088493320</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value=".x_snc_transfer.request_user">ada02005c322121023f6973ed4013122</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-16 12:12:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>167f6dea84234f388c62d0809b34b8f9</sys_id>
+        <sys_metadata>8baa67f2839e12107f4409b29bda1e21</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.x_snc_transfer.request_user</sys_name>
+        <sys_package display_value="Transfer a Vehicle" source="x_snc_transfer">7cbc4f7e83da12107f4409b29bda1ec0</sys_package>
+        <sys_parent display_value="">a2aa2736839e12107f4409b29bda1e16</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Transfer a Vehicle">7cbc4f7e83da12107f4409b29bda1ec0</sys_scope>
+        <sys_scope_delete display_value="">bb7210836c64439ab937f77166390e19</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_8baa67f2839e12107f4409b29bda1e21</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_8baa67f2839e12107f4409b29bda1e21">bcdd0b8bc356121023f6973ed4013151</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-16 12:12:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
